@@ -3,13 +3,13 @@
 This project explores **Linear Regression** to predict housing prices using the **California Housing dataset**. It covers data preprocessing, exploratory analysis, model building, and performance evaluation.
 
 ## Table of Contents
-- [Project Overview](ProjectOverview)
-- [Problem Statement](ProblemStatement)
-- [Dataset](Dataset)
-- [Installation](Installation)
-- [Project Structure](ProjectStructure)
-- [Usage](Usage)
-- [Results](Results)
+- Project Overview
+- Problem Statement
+- Dataset
+- Installation
+- Project Structure
+- Usage
+- Results
 
 ## Project Overview
 In this project, we use the **California Housing dataset** from `scikit-learn` to predict median house prices. This project demonstrates the complete data science workflow:
